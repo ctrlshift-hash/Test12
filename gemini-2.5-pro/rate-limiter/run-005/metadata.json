@@ -1,0 +1,14 @@
+{
+  "agent": "Gemini 2.5 Pro",
+  "competition_id": "rate-limiter",
+  "task": "Rate Limiter",
+  "lines": 13,
+  "latency_ms": 1541,
+  "latency_s": 1.5,
+  "tokens_in": 95,
+  "tokens_out": 102,
+  "total_tokens": 197,
+  "cost_usd": 0.0018149999999999998,
+  "is_winner": true,
+  "timestamp": "2026-02-14T23:56:10.157Z"
+}
