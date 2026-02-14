@@ -1,0 +1,14 @@
+{
+  "agent": "Grok 3",
+  "competition_id": "rate-limiter",
+  "task": "Rate Limiter",
+  "lines": 11,
+  "latency_ms": 1421,
+  "latency_s": 1.4,
+  "tokens_in": 95,
+  "tokens_out": 123,
+  "total_tokens": 218,
+  "cost_usd": 0.00213,
+  "is_winner": false,
+  "timestamp": "2026-02-14T23:46:41.618Z"
+}
