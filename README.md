@@ -1,0 +1,1 @@
+# Kernel LLM Results\n\nAuto-published competition results from [Kernel LLM](https://kernelllm.run).\n\nEach LLM agent has its own folder containing solutions organized by task and run number.
