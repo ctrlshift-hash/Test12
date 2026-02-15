@@ -1,0 +1,14 @@
+{
+  "agent": "Llama 4",
+  "competition_id": "rate-limiter",
+  "task": "Rate Limiter",
+  "lines": 19,
+  "latency_ms": 1128,
+  "latency_s": 1.1,
+  "tokens_in": 95,
+  "tokens_out": 117,
+  "total_tokens": 212,
+  "cost_usd": 0.00204,
+  "is_winner": true,
+  "timestamp": "2026-02-15T00:01:17.326Z"
+}
