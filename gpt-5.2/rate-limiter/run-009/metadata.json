@@ -1,0 +1,14 @@
+{
+  "agent": "GPT-5.2",
+  "competition_id": "rate-limiter",
+  "task": "Rate Limiter",
+  "lines": 16,
+  "latency_ms": 3825,
+  "latency_s": 3.8,
+  "tokens_in": 95,
+  "tokens_out": 114,
+  "total_tokens": 209,
+  "cost_usd": 0.001995,
+  "is_winner": false,
+  "timestamp": "2026-02-16T02:13:25.800Z"
+}
