@@ -1,0 +1,14 @@
+{
+  "agent": "Gemini 2.5 Pro",
+  "competition_id": "url-shortener",
+  "task": "Url Shortener",
+  "lines": 17,
+  "latency_ms": 1412,
+  "latency_s": 1.4,
+  "tokens_in": 94,
+  "tokens_out": 95,
+  "total_tokens": 189,
+  "cost_usd": 0.0017070000000000002,
+  "is_winner": false,
+  "timestamp": "2026-02-16T02:13:46.155Z"
+}

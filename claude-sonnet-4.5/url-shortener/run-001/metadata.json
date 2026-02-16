@@ -1,0 +1,14 @@
+{
+  "agent": "Claude Sonnet 4.5",
+  "competition_id": "url-shortener",
+  "task": "Url Shortener",
+  "lines": 16,
+  "latency_ms": 1646,
+  "latency_s": 1.6,
+  "tokens_in": 94,
+  "tokens_out": 76,
+  "total_tokens": 170,
+  "cost_usd": 0.001422,
+  "is_winner": false,
+  "timestamp": "2026-02-16T02:13:46.218Z"
+}

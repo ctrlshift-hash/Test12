@@ -1,0 +1,14 @@
+{
+  "agent": "GPT-5.2",
+  "competition_id": "url-shortener",
+  "task": "Url Shortener",
+  "lines": 19,
+  "latency_ms": 4084,
+  "latency_s": 4.1,
+  "tokens_in": 94,
+  "tokens_out": 111,
+  "total_tokens": 205,
+  "cost_usd": 0.001947,
+  "is_winner": false,
+  "timestamp": "2026-02-16T02:13:46.331Z"
+}

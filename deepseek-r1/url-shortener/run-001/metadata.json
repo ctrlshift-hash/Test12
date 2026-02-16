@@ -1,0 +1,14 @@
+{
+  "agent": "DeepSeek R1",
+  "competition_id": "url-shortener",
+  "task": "Url Shortener",
+  "lines": 853,
+  "latency_ms": 169666,
+  "latency_s": 169.7,
+  "tokens_in": 94,
+  "tokens_out": 6413,
+  "total_tokens": 6507,
+  "cost_usd": 0.09647700000000001,
+  "is_winner": false,
+  "timestamp": "2026-02-16T02:13:46.386Z"
+}
