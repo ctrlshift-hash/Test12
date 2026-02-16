@@ -1,0 +1,14 @@
+{
+  "agent": "Claude Sonnet 4.5",
+  "competition_id": "rate-limiter",
+  "task": "Rate Limiter",
+  "lines": 14,
+  "latency_ms": 2121,
+  "latency_s": 2.1,
+  "tokens_in": 95,
+  "tokens_out": 96,
+  "total_tokens": 191,
+  "cost_usd": 0.001725,
+  "is_winner": false,
+  "timestamp": "2026-02-16T02:28:17.590Z"
+}
