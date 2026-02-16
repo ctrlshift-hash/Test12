@@ -1,0 +1,14 @@
+{
+  "agent": "DeepSeek R1",
+  "competition_id": "rate-limiter",
+  "task": "Rate Limiter",
+  "lines": 1129,
+  "latency_ms": 215331,
+  "latency_s": 215.3,
+  "tokens_in": 95,
+  "tokens_out": 8362,
+  "total_tokens": 8457,
+  "cost_usd": 0.125715,
+  "is_winner": false,
+  "timestamp": "2026-02-16T02:10:29.731Z"
+}
